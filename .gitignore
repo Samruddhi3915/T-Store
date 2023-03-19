@@ -1,0 +1,5 @@
+./projbackend/.env
+./projfrontend/.env
+./projfrontend/.gitignore
+./projbackend/node_modules
+./projfrontend/node_modules
